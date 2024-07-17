@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": "10",
+      "name": "Product 10",
+      "price": 11.99,
+      "image": "https://picsum.photos/id/19/300/300",
+      "description": "This is product 10",
+      "discount": 0.25,
+      "quantity": 90,
+      "featured": true
+    },
+    {
+      "name": "Nguyễn Thị Gấm",
+      "price": 123,
+      "description": "update",
+      "id": "b6ab"
+    },
+    {
+      "id": "df71",
+      "name": "Áo phông",
+      "price": 123333
+    },
+    {
+      "id": "baf5",
+      "name": "Nguyễn Thị Gấm",
+      "price": 0,
+      "description": "noooo"
+    },
+    {
+      "id": "75e3",
+      "name": "Nguyễn Thị Gấm",
+      "price": 10,
+      "description": "gam add ne"
+    },
+    {
+      "name": "Nguyễn Thị Gấm ne",
+      "price": 333,
+      "description": "add 2",
+      "id": "a590"
+    },
+    {
+      "id": "bda0",
+      "name": "Product 9 updatess sss",
+      "price": 0,
+      "description": "This is product 9",
+      "category": "1"
+    },
+    {
+      "id": "546c",
+      "name": "Product 9 updatess sss",
+      "price": 666,
+      "description": "This is product 9",
+      "category": "2"
+    },
+    {
+      "id": "e0b5",
+      "name": "Product 9 updatess sss",
+      "price": 222,
+      "description": "This is product 9",
+      "category": "3"
+    },
+    {
+      "id": "ac4c",
+      "name": "Product ",
+      "price": 0,
+      "description": "This is product 9",
+      "category": "1"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Electronics",
+      "slug": "electronics"
+    },
+    {
+      "id": "2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    {
+      "id": "3",
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen"
+    },
+    {
+      "id": "4",
+      "name": "Books",
+      "slug": "books"
+    }
+  ]
+}
